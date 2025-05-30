@@ -1,11 +1,11 @@
-import { gitHubIcon } from "./icons/github.js";
-import { linkedinIcon } from "./icons/linkedin.js";
-import { instagramIcon } from "./icons/instagram.js";
-import { homeIcon } from "./icons/home.js";
-import { aboutIcon } from "./icons/about.js";
-import { resumeIcon } from "./icons/resume.js";
-import { portifolioIcon } from "./icons/portifolio.js";
-import { contatoIcon } from "./icons/contato.js";
+import { gitHubIcon } from "./assets/icons/github.js";
+import { linkedinIcon } from "./assets/icons/linkedin.js";
+import { instagramIcon } from "./assets/icons/instagram.js";
+import { homeIcon } from "./assets/icons/home.js";
+import { aboutIcon } from "./assets/icons/about.js";
+import { resumeIcon } from "./assets/icons/resume.js";
+import { portifolioIcon } from "./assets/icons/portifolio.js";
+import { contatoIcon } from "./assets/icons/contato.js";
 
 const element = document.getElementById("text");
 const fullText = element.textContent;
