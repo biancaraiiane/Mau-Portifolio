@@ -2,7 +2,7 @@ import { gitHubIcon } from "./icons/github.js";
 import { linkedinIcon } from "./icons/linkedin.js";
 import { instagramIcon } from "./icons/instagram.js";
 import { homeIcon } from "./icons/home.js";
-import { aboutIcon } from "./icons/About.js";
+import { aboutIcon } from "./icons/about.js";
 import { resumeIcon } from "./icons/resume.js";
 import { portifolioIcon } from "./icons/portifolio.js";
 import { contatoIcon } from "./icons/contato.js";
